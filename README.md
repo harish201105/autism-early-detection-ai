@@ -31,10 +31,11 @@ This project is an advanced computer vision and machine learning system for earl
 ![Screening Questionnaire 4](assets/15.png)
 
 ## Features
-- **Three Analysis Modes:**
+- **Four Analysis Modes:**
   - Real-time Video (webcam)
   - Video Upload
   - Image Upload
+  - Autism Screening Questionnaire Analysis
 - **Robust MediaPipe FaceMesh Initialization:**
   - Each mode uses a fresh, mode-specific FaceMesh object for reliable detection.
   - Automatic re-initialization and error handling.
@@ -102,10 +103,18 @@ This project is an advanced computer vision and machine learning system for earl
 See `CONTRIBUTING.md` for guidelines.
 
 ## License
-MIT
+MIT License. Copyright (c) 2025 Harish Parthasarathy
+
+See the LICENSE file for details.
 
 ## Contact
 For questions or support, open an issue or contact the maintainer.
+
+**GitHub Repository:** [https://github.com/harish201105/autism-early-detection-ai](https://github.com/harish201105/autism-early-detection-ai)
+
+**Email:** harish.parthasarathy2005@gmail.com
+
+**Phone:** +91 9042264608
 
 ## Technical Implementation
 
@@ -293,22 +302,11 @@ autism-detection/
 4. Push to the branch
 5. Create a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - MediaPipe for computer vision models
 - Kaggle for datasets
 - Streamlit for the web interface
-
-## Contact
-
-For questions or support, please:
-- Open an issue on GitHub
-- Contact the development team
-- Refer to the documentation
 
 ## References
 
