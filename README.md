@@ -55,6 +55,12 @@ This project is an advanced computer vision and machine learning system for earl
   - Automatic re-initialization of models
   - Debug sidebar for troubleshooting
 
+## Architecture Diagram
+
+Below is an overview of the project's architecture:
+
+![Architecture Diagram](assets/architecture_diagram.png)
+
 ## Quick Start
 1. **Install dependencies:**
    ```bash
